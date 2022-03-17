@@ -86,7 +86,7 @@ my_layout2 = Layout(title = 'Universities with Black or African American Enrollm
 
 fig2 = {'data': map2, 'layout': my_layout2}
 
-offline.plot(fig2,filename= 'BlackGrads.html')
+offline.plot(fig2,filename= 'BlackEnroll.html')
 
 #map 3
 size3 = []
