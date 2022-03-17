@@ -20,7 +20,7 @@ uni_data = json.load(infile)
 
 #json.dump(uni_data, outfile, indent=4)
 
-unis = []
+
 power_five = [102,107,108,127,130]
 
 #map 1
